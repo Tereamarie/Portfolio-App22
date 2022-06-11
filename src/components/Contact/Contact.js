@@ -50,9 +50,8 @@ export default function ContactForm() {
 					<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
 						<Button
 							variant='outlined'
-							color='primary'
 							size='large'
-							style={{ width: '50%', marginTop: '15px' }}
+							style={{ color:'red', width: '50%', marginTop: '15px' }}
 						>
 							Send
 						</Button>
