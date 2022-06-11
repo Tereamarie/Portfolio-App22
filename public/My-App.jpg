@@ -1,0 +1,181 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/mtkno/OneDrive/Desktop/projects/Portfolio-App22/public/React%20Components%20and%20Component%20State.html
+Subject: React Components and Component State
+Date: Sat, 11 Jun 2022 22:24:22 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--1ZuW5QiKtgF2cgRUPsAp8hsmWaXhgviSn0rHGaV3yf----"
+
+
+------MultipartBoundary--1ZuW5QiKtgF2cgRUPsAp8hsmWaXhgviSn0rHGaV3yf----
+Content-Type: text/html
+Content-ID: <frame-7293EC5F9B099C3413A3B52584E5A3E3@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/mtkno/OneDrive/Desktop/projects/Portfolio-App22/public/React%20Components%20and%20Component%20State.html
+
+<!DOCTYPE html><!-- saved from url=3D(0042)https://react-stateful-widget.ne=
+tlify.app/ --><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" con=
+tent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/c=
+ss" href=3D"cid:css-ca137a0d-4052-4e92-b51c-91a8eeeeb2c4@mhtml.blink" /><me=
+ta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.0">=
+<link href=3D"file:///C:/Users/mtkno/OneDrive/Desktop/projects/Portfolio-Ap=
+p22/public/React%20Components%20and%20Component%20State_files/css2" rel=3D"=
+stylesheet"><link rel=3D"stylesheet" href=3D"file:///C:/Users/mtkno/OneDriv=
+e/Desktop/projects/Portfolio-App22/public/React%20Components%20and%20Compon=
+ent%20State_files/styles.8adf66e4.css"><link rel=3D"icon" href=3D"https://r=
+eact-stateful-widget.netlify.app/favicon.6937a946.ico"><title>React Compone=
+nts and Component State</title></head><body class=3D"lang-en" data-new-gr-c=
+-s-check-loaded=3D"14.1063.0" data-gr-ext-installed=3D""> <div id=3D"root">=
+<div class=3D"widget-counter container"><h2>Counter</h2><div id=3D"count" s=
+tyle=3D"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;">Number 0=
+ is  even</div><div><button id=3D"increment">Increment</button><button id=
+=3D"decrement">Decrement</button><button id=3D"resetCount">Reset</button></=
+div></div><div class=3D"widget-moods container"><h2>Moods</h2><div id=3D"mo=
+od" style=3D"font-size: 1.5em; margin-bottom: 0.3em; color: crimson;">Not s=
+ure how I feel</div> <div><button id=3D"makeHappy">Make Happy</button><butt=
+on id=3D"makeSad">Make Sad</button><button id=3D"resetMood">Reset</button><=
+/div></div><div class=3D"widget-spinner container"><h2>Spinner</h2><div id=
+=3D"spinner" class=3D"spinner">--+--</div><button id=3D"toggleSpinner">Hide=
+ Spinner</button></div><div class=3D"widget-input container"><h2>Input</h2>=
+<div style=3D"font-size: 1.5em; margin-bottom: 0.3em; color: crimson;"></di=
+v> <div><input id=3D"input" type=3D"text" value=3D""><button id=3D"resetInp=
+ut">Reset</button></div></div><div class=3D"widget-squares container"><h2>S=
+quares</h2><div class=3D"squares"><div id=3D"sqA" class=3D"square"></div><d=
+iv id=3D"sqB" class=3D"square"></div><div id=3D"sqC" class=3D"square"></div=
+><div id=3D"sqD" class=3D"square"></div></div></div><div class=3D"widget-pr=
+ogrammers container"><h2>Programmers</h2><div class=3D"programmers"><div cl=
+ass=3D"programmer">Ada Lovelace <button>Feature</button></div><div class=3D=
+"programmer">Grace Hopper <button>Feature</button></div><div class=3D"progr=
+ammer">Evelyn Boyd Granville <button>Feature</button></div><div class=3D"pr=
+ogrammer">Mary Kenneth Keller <button>Feature</button></div><div class=3D"p=
+rogrammer">Frances Allen <button>Feature</button></div><div class=3D"progra=
+mmer">Carol Shaw <button>Feature</button></div><div class=3D"programmer">Ma=
+rie Knowlton <button>Feature</button></div></div><div id=3D"featured" style=
+=3D"font-size: 1.5em; margin-top: 0.5em; color: royalblue;">Pick an awesome=
+ programmer</div></div></div> <div id=3D"weava-permanent-marker" date=3D"16=
+54986137587"></div><iframe id=3D"nr-ext-rsicon" style=3D"position: absolute=
+; display: none; width: 50px; height: 50px; z-index: 2147483647; border-sty=
+le: none; background: transparent;" src=3D"cid:frame-6FC20F8F5ACECB2DFD06D5=
+C33CB35E5A@mhtml.blink"></iframe><div id=3D"weava-ui-wrapper"><div class=3D=
+"weava-drop-area-wrapper"><div class=3D"weava-drop-area"></div>
+<div class=3D"weava-drop-area-text">Drop here!</div>
+</div></div><loom-container id=3D"lo-engage-ext-container"><loom-shadow cla=
+ssname=3D"resolved"></loom-shadow></loom-container><loom-container id=3D"lo=
+-companion-container"><loom-shadow classname=3D"resolved"></loom-shadow></l=
+oom-container><grammarly-desktop-integration data-grammarly-shadow-root=3D"=
+true"></grammarly-desktop-integration><div id=3D"__genieContainer" style=3D=
+"all: initial;"></div></body></html>
+------MultipartBoundary--1ZuW5QiKtgF2cgRUPsAp8hsmWaXhgviSn0rHGaV3yf----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-ca137a0d-4052-4e92-b51c-91a8eeeeb2c4@mhtml.blink
+
+@charset "utf-8";
+
+@font-face { font-weight: 400; font-style: normal; font-family: Circular-Lo=
+om; src: url("https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-Book=
+-cd7d2bcec649b1243839a15d5eb8f0a3.woff2") format("woff2"); }
+
+@font-face { font-weight: 500; font-style: normal; font-family: Circular-Lo=
+om; src: url("https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-Medi=
+um-d74eac43c78bd5852478998ce63dceb3.woff2") format("woff2"); }
+
+@font-face { font-weight: 700; font-style: normal; font-family: Circular-Lo=
+om; src: url("https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-Bold=
+-83b8ceaf77f49c7cffa44107561909e4.woff2") format("woff2"); }
+
+@font-face { font-weight: 900; font-style: normal; font-family: Circular-Lo=
+om; src: url("https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-Blac=
+k-bf067ecb8aa777ceb6df7d72226febca.woff2") format("woff2"); }
+------MultipartBoundary--1ZuW5QiKtgF2cgRUPsAp8hsmWaXhgviSn0rHGaV3yf----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/mtkno/OneDrive/Desktop/projects/Portfolio-App22/public/React%20Components%20and%20Component%20State_files/css2
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--1ZuW5QiKtgF2cgRUPsAp8hsmWaXhgviSn0rHGaV3yf----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/mtkno/OneDrive/Desktop/projects/Portfolio-App22/public/React%20Components%20and%20Component%20State_files/styles.8adf66e4.css
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+body { background-color: rgb(244, 244, 244); color: rgb(65, 75, 60); font-f=
+amily: Bitter, serif; }
+
+h2 { position: absolute; top: 3%; left: 5%; transform-origin: left center; =
+}
+
+button, input { margin: 3px; color: rgb(122, 106, 106); border: 1px solid r=
+gb(210, 210, 210); border-radius: 3px; height: 1.8em; }
+
+.container { position: relative; min-height: 150px; background-color: rgb(2=
+55, 255, 255); margin: 16px; padding: 32px; border: 1px solid rgb(210, 210,=
+ 210); box-shadow: rgb(128, 127, 127) 0px 1px 6px -2px; border-radius: 16px=
+; display: flex; flex-flow: column wrap; align-items: center; justify-conte=
+nt: center; }
+
+@keyframes rotate {=20
+  100% { transform: rotate(1turn); }
+}
+
+.spinner { height: 3em; display: flex; align-items: center; animation: 1s l=
+inear 0s infinite normal forwards running rotate; }
+
+.squares { display: grid; grid-template-columns: 50px 50px; grid-template-r=
+ows: 50px 50px; gap: 10px; }
+
+.squares .square { justify-self: stretch; border: 2px dashed rgb(0, 0, 0); =
+cursor: pointer; }
+
+.squares .square.active { background-color: rgb(144, 238, 144); border: 3px=
+ solid rgb(0, 0, 0); }
+
+.programmers { display: flex; flex-direction: column; align-items: flex-end=
+; }
+------MultipartBoundary--1ZuW5QiKtgF2cgRUPsAp8hsmWaXhgviSn0rHGaV3yf----
+Content-Type: text/html
+Content-ID: <frame-6FC20F8F5ACECB2DFD06D5C33CB35E5A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/mtkno/OneDrive/Desktop/projects/Portfolio-App22/public/React%20Components%20and%20Component%20State_files/saved_resource.html
+
+<!DOCTYPE html><!-- saved from url=3D(0042)https://react-stateful-widget.ne=
+tlify.app/ --><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" con=
+tent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"ie=3Dedge">
+    <title>NaturalReaders Selection Detection Icon</title>
+<link type=3D"text/css" rel=3D"stylesheet" href=3D"chrome-extension://kohfg=
+cgbkjodfcfkcackpagifgbcmimk/injected/nr-ext-dom/nr-ext-select-icon/nr-ext-s=
+elect-icon.css"></head>
+<body>
+    <div class=3D"nr-ext-icon">
+        <button id=3D"readIcon" class=3D"rs-btn-play">
+    </button></div>
+
+<grammarly-desktop-integration data-grammarly-shadow-root=3D"true"></gramma=
+rly-desktop-integration></body></html>
+------MultipartBoundary--1ZuW5QiKtgF2cgRUPsAp8hsmWaXhgviSn0rHGaV3yf----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://kohfgcgbkjodfcfkcackpagifgbcmimk/injected/nr-ext-dom/nr-ext-select-icon/nr-ext-select-icon.css
+
+@charset "utf-8";
+
+.rs-btn-play { background: url("chrome-extension://kohfgcgbkjodfcfkcackpagi=
+fgbcmimk/assets/img/readicon.svg") center center no-repeat; height: 30px; w=
+idth: 30px; border: none; cursor: pointer; outline-style: none; }
+
+.headphones { background: url("chrome-extension://kohfgcgbkjodfcfkcackpagif=
+gbcmimk/assets/img/headphone.svg") center center no-repeat; height: 30px; w=
+idth: 30px; border: none; cursor: pointer; outline-style: none; }
+
+.nr-onhover { cursor: pointer; background-color: rgb(213, 229, 254) !import=
+ant; }
+------MultipartBoundary--1ZuW5QiKtgF2cgRUPsAp8hsmWaXhgviSn0rHGaV3yf------
