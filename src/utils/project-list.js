@@ -28,7 +28,7 @@ let project_list = [
 			'https://cdn11.bigcommerce.com/s-odybbbawa7/images/stencil/1280x1280/products/4503/6896/varsity-2246-8-wall-mounted-scoreboard-19__04916.1633630110.jpg?c=1',
 		title: 'React Score Board',
 		des:
-			"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+			"#",
 		tags: [ 'CSS', 'Flexbox', 'React', 'JavaScript' ],
 		links: {
 			launch: 'https://reactapp-scoreboard.netlify.app',
@@ -40,7 +40,7 @@ let project_list = [
 			" ./widget1.png ",
 		title: 'React Stateful Widget',
 		des:
-			"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+		"",
 		tags: [ 'React', 'Redux', 'Node.js', 'HTML', 'CSS', 'JavaScript' ],
 		links: {
 			launch: 'https://react-stateful-widget.netlify.app',
